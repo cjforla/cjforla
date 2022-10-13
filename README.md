@@ -2,9 +2,9 @@
 
 <br>
 
-<p align="center">
+<h3 align="center">
 ⚙️ Skills
-</p>
+</h3>
 <br>
 <p align="center">
 <img src="https://img.shields.io/badge/Javascript-FFCA28?style=flat-square&logo=javascript&logoColor=black"/>
@@ -17,9 +17,10 @@
 
 <br>
 
-<p align="center">
+<h3 align="center">
 ☎️ Contact Me
-<br>
+</h3>
+<p align="center">
 <a href="https://velog.io/@cjforla123"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
 <a href="mailto:cjforla123@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
